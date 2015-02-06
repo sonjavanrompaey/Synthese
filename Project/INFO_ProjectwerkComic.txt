@@ -1,0 +1,18 @@
+ComicDesktopApp
+----------------
+*inloggen (ok : username/admin , password/admin)
+*comic: add/update/delete
+*logout
+
+problems:
+-add/delete werken niet (DefaultTableModel vs TableModel)
+
+
+ComicWebApp
+------------
+*inloggen 
+*comic library (table weergave)
+
+problems:
+-log in werkt niet (username + password uit table "login" in database "comicdb")
+-ComicServlet geeft geen tbl_comic weer (de tbl_comic van de database weergeven)
